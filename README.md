@@ -1,6 +1,6 @@
 # AngularJSCRUD
 
-##CRUD App using AngularJS and Fake JSON
+## CRUD App using AngularJS and Fake JSON
 
 ![screenshot](image/AngularJS.png)
 
